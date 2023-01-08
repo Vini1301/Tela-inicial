@@ -1,0 +1,15 @@
+#Facilidade{
+    background-color: #39b54a;
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+#Botão-de-criar{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+#Botão-de-criar:hover{
+    background-color: rgb(230, 227, 227);
+}
